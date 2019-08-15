@@ -20,5 +20,9 @@
   "bugs": {
     "url": "https://github.com/benjamij/compromised-password/issues"
   },
-  "homepage": "https://github.com/benjamij/compromised-password#readme"
+  "homepage": "https://github.com/benjamij/compromised-password#readme",
+  "dependencies": {
+    "axios": "^0.19.0",
+    "sha1": "^1.1.1"
+  }
 }
