@@ -1,0 +1,24 @@
+{
+  "name": "compromised-password",
+  "version": "1.0.0",
+  "description": "A module for checking whether or not your password has been compromised. It does this by sending a partial hash to api.pwnedpasswords.com and checking whether the response contains the suffix.",
+  "main": "compromised-password.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/benjamij/compromised-password.git"
+  },
+  "keywords": [
+    "pwned",
+    "passwords",
+    "compromised"
+  ],
+  "author": "Benjamin Jakobus",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/benjamij/compromised-password/issues"
+  },
+  "homepage": "https://github.com/benjamij/compromised-password#readme"
+}
