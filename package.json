@@ -22,7 +22,7 @@
   },
   "homepage": "https://github.com/benjamij/compromised-password#readme",
   "dependencies": {
-    "axios": "^0.19.0",
+    "axios": "^0.21.1",
     "sha1": "^1.1.1"
   }
 }
